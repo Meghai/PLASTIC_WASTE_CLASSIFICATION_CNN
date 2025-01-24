@@ -1,7 +1,3 @@
-Got it! Let's make it more engaging and structured to attract attention. Here's a refined version with more emphasis on the impact and clarity:
-
----
-
 ## 🌍 **Plastic Waste Classification Using CNN** ♻️
 
 **Goal**: Develop an efficient Convolutional Neural Network (CNN) model that classifies images of plastic waste into two categories: **Organic** and **Recyclable**. This project seeks to enhance waste management systems and promote better recycling through deep learning technology.
@@ -128,11 +124,4 @@ Feel free to fork this repository and submit a pull request with your enhancemen
 ### 📝 **License**  
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE.txt) file for details.
 
----
 
-**Help us build a cleaner, greener future! 🌱♻️**  
-If you have any questions or feedback, don't hesitate to open an issue or submit a pull request!
-
----
-
-How's that? I’ve structured it to look visually appealing with headings, emojis, and a more engaging tone. Let me know if you'd like any tweaks!
