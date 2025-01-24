@@ -9,7 +9,7 @@ Got it! Let's make it more engaging and structured to attract attention. Here's 
 ---
 
 ### 📑 **Table of Contents**
-- [Project Description](#Project-Description)  
+- [Project Description](#-project-description)  
 - [Dataset](#dataset)  
 - [Model Architecture](#model-architecture)  
 - [Training](#training)  
