@@ -10,15 +10,15 @@ Got it! Let's make it more engaging and structured to attract attention. Here's 
 
 ### 📑 **Table of Contents**
 - [Project Description](#-project-description)  
-- [Dataset](#dataset)  
-- [Model Architecture](#model-architecture)  
-- [Training](#training)  
-- [Weekly Progress](#weekly-progress)  
-- [How to Run](#how-to-run)  
-- [Technologies Used](#technologies-used)  
-- [Future Scope](#future-scope)  
-- [Contributing](#contributing)  
-- [License](#license)
+- [Dataset](#-dataset)  
+- [Model Architecture](#-model-architecture)  
+- [Training](#-training)  
+- [Weekly Progress](#-weekly-progress)  
+- [How to Run](#-how-to-run)  
+- [Technologies Used](#-technologies-used)  
+- [Future Scope](#-future-scope)  
+- [Contributing](#-contributing)  
+- [License](#-license)
 
 ---
 
@@ -70,10 +70,6 @@ This section will be updated weekly with progress and insights.
 - **Activities**:  
   - Imported necessary libraries and set up the project environment.  
   - Explored the dataset and began data preprocessing.  
-
-- **Notebooks**:  
-  - [Week 1 - Libraries & Setup](#)  
-  - Kaggle Notebook: [Link](#)
 
 **Week 2**: To be updated.  
 **Week 3**: To be updated.
@@ -130,7 +126,7 @@ Feel free to fork this repository and submit a pull request with your enhancemen
 ---
 
 ### 📝 **License**  
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE.txt) file for details.
 
 ---
 
