@@ -35,7 +35,7 @@ The **Waste Classification Data** by Sashaank Sekar is used for this project. Th
 - **Test Set**: 2,513 images (15%)  
 - **Categories**: Organic, Recyclable  
 
-[**Access the Dataset**](#)  
+[**Access the Dataset**](https://www.kaggle.com/datasets/techsash/waste-classification-data)  
 
 *Note: Make sure to follow dataset licensing and usage guidelines.*
 
